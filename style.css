@@ -1,0 +1,65 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  color: #333333;
+}
+
+h1.title {
+  font-family: "Times New Roman", Times, serif;
+  margin: 0 0 5px 0;
+  color: #000000;
+  line-height: 1.4;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+li {
+  display: inline-block;
+  margin-right: 10px;
+}
+img {
+  margin-left: 150px;
+  width: 150px;
+  height: auto;
+}
+.author {
+  margin: 0;
+  color: #666666;
+  padding: 0;
+}
+.chart {
+  width: 150px;
+  height: auto;
+  margin-top: 9px;
+}
+.header-bar {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: #666666;
+  font-weight: bold;
+}
+
+.header-bar span:first-child {
+  font-family: "Montserrat", sans-serif;
+  color: #c86b23;
+}
+
+.correction {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  color: #0d497b;
+  line-height: 22px;
+  font-weight: 500;
+}
+p {
+  color: #333333ee;
+  font-size: 16px;
+  line-height: 26px;
+  margin: 0 0 16px 0;
+}
+.free {
+  color: #373e49f4;
+  font-weight: bold;
+}
