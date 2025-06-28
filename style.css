@@ -25,7 +25,7 @@ img {
 }
 .author {
   margin: 0;
-  color: #666666;
+  color: grey;
   padding: 0;
 }
 .chart {
@@ -37,19 +37,19 @@ img {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 12px;
   text-transform: uppercase;
-  color: #666666;
+  color: grey;
   font-weight: bold;
 }
 
 .header-bar span:first-child {
   font-family: "Montserrat", sans-serif;
-  color: #c86b23;
+  color: orangered;
 }
 
 .correction {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 15px;
-  color: #0d497b;
+  color: rgb(51, 51, 180);
   line-height: 22px;
   font-weight: 500;
 }
